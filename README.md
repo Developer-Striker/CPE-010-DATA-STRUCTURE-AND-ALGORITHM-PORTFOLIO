@@ -1,20 +1,24 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/240e80c7-3e71-4d01-93f1-15989b637e7b" width="130" alt="Dancing Penguin" />
+</div>
 
 <div align="center">
-  
-  <img src="https://github.com/user-attachments/assets/240e80c7-3e71-4d01-93f1-15989b637e7b" width="130" alt="Dancing Penguin" />
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=James%20Daniel%20Verano&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" />
-  
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hardware+Hacker+%E2%9A%A1+Software+Dev;Structuring+PyQt6+Systems;Wiring+Physical+Circuits;Simulating+Audio+Amplifiers" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Striker&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <a href="https://github.com/Developer-Striker">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Striker&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </a>
 </div>
 
-<br>
+<br><br>
 
 <h2 align="center">👨‍💻 Behind the Code</h2>
 <div align="center">
